@@ -9,4 +9,3 @@ shap
 matplotlib
 seaborn
 jupyter
-ipykernel
